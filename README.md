@@ -87,8 +87,8 @@ Multiple mechanisms were evaluated:
 # 🎥 Demonstration Video
 
 
+[![SOC Lab Demo](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=_Tj91i1m36U)
 
-[Watch the SOC Lab Demo](https://drive.google.com/uc?export=download&id=1jdWfefYc3i3klt-1_D9e2Q8UV2sW9uYN)
 
 
 
