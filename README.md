@@ -85,10 +85,10 @@ Multiple mechanisms were evaluated:
 - Event Viewer  
 
 # 🎥 Demonstration Video
+<div align="center">
 
-
-[![SOC Lab Demo](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=_Tj91i1m36U)
-
+[![SOC Lab Demo](https://img.youtube.com/vi/_Tj91i1m36U/0.jpg)](https://www.youtube.com/watch?v=_Tj91i1m36U)
+</div>
 
 
 
